@@ -6,6 +6,6 @@ class Solution(object):
             if key not in groups:
                 groups[key]=[]
             groups[key].append(word)
-        return groups.values()
+        return list(groups.values())
         
         
