@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0238-product-of-array-except-self](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanshuu8/Leetcode--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
