@@ -6,7 +6,7 @@ class Solution(object):
                 freq[num]+=1
             else:
                 freq[num]=1
-        bucket = [[]for _ in range(len(nums)+1)]
+        bucket = [[]for i in range(len(nums)+1)]
         for num in freq:
             count = freq[num]
             bucket[count].append(num)
