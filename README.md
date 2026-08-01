@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanshuu8/Leetcode--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
