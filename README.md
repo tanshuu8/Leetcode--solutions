@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
