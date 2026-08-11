@@ -6,7 +6,7 @@ class Solution(object):
                 nums[slow]=nums[fast]
                 slow+=1
         return slow
-       
+        
        
         
        
