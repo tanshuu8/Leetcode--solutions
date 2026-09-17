@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0485-max-consecutive-ones) |
 ## Prefix Sum
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
