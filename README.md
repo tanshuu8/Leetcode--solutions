@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0485-max-consecutive-ones) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -138,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
