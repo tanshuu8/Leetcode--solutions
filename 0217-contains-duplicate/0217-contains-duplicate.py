@@ -1,6 +1,6 @@
 class Solution(object):
     def containsDuplicate(self, nums):
-        freq ={}
+        freq={}
         for num in nums:
             if num in freq:
                 freq[num]+=1
