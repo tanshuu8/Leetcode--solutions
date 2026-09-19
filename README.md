@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0283-move-zeroes) |
 ## Greedy
