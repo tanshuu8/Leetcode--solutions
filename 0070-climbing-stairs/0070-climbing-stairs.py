@@ -1,6 +1,6 @@
 class Solution(object):
-    def climbStairs(self, n):
-        dp =[0]*(n+1)
+    def climbStairs(self,n):
+        dp = [0]*(n+1)
         dp[0]=1
         for i in range(1,n+1):
             if i>=1:
@@ -8,7 +8,3 @@ class Solution(object):
             if i>=2:
                 dp[i]+=dp[i-2]
         return dp[n]
-            
-       
-       
-      
