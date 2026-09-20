@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0704-binary-search) |
 ## Design
 |  |
 | ------- |
