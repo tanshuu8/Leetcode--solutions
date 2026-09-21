@@ -1,9 +1,9 @@
 class Solution(object):
     def sortColors(self, nums):
-        #dutch national flag algorithm
         #3 pointers
-        low =0
-        mid =0
+        #dutch national flag algorithm
+        low=0
+        mid=0
         high = len(nums)-1
         while mid<=high:
             if nums[mid]==0:
@@ -14,13 +14,6 @@ class Solution(object):
                 mid+=1
             else:
                 nums[mid],nums[high]=nums[high],nums[mid]
-               
                 high-=1
-            
-      
-            
-       
-
-
-      
+        return nums
         
