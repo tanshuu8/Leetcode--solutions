@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
 ## Bracket Sequences
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0078-subsets) |
 ## Linked List
 |  |
 | ------- |
