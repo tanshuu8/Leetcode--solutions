@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
