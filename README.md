@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0367-valid-perfect-square) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanshuu8/Leetcode--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0704-binary-search) |
 ## Design
 |  |
