@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
