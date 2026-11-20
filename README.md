@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
