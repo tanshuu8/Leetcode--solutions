@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanshuu8/Leetcode--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0344-reverse-string) |
 ## Greedy
@@ -397,4 +400,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
