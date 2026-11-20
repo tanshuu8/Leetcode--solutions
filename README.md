@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
