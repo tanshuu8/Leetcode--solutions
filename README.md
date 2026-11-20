@@ -183,4 +183,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
