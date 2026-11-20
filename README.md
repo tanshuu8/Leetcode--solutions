@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0392-is-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
+| [0392-is-subsequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
