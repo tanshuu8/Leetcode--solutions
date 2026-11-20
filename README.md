@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0344-reverse-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -192,10 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 ## Stack
 |  |
 | ------- |
@@ -320,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
