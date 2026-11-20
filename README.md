@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tanshuu8/Leetcode--solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Bracket Sequences
 |  |
 | ------- |
