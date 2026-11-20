@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0229-majority-element-ii) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0344-reverse-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
 | ------- |
