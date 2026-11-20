@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0242-valid-anagram) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0189-rotate-array) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0050-powx-n) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/tanshuu8/Leetcode--solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
